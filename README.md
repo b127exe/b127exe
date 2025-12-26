@@ -119,9 +119,7 @@ Comprehensive enterprise resource planning solutions for business operations.
 
 ## 📊 GitHub Stats
 
-![Bilal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b127exe&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=b127exe&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=b127exe&theme=radical)](https://git.io/streak-stats)
 
 ---
 
