@@ -14,7 +14,6 @@ I'm a Full-Stack Engineer and AI Developer with expertise in building enterprise
 - 🌱 Exploring advanced AI/ML implementations and cloud-native architectures
 - 💼 Experienced in ERP systems, POS solutions, and custom business platforms
 - 🎯 Focused on writing clean, maintainable, and scalable code
-- 📍 Based in Karachi, Pakistan
 
 ---
 
@@ -59,97 +58,9 @@ I'm a Full-Stack Engineer and AI Developer with expertise in building enterprise
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
----
-
-## 🏆 Featured Projects
-
-### 🎵 MixCloud - Multimedia Web Application
-A scalable Laravel-based sound streaming platform with user storefront, admin panel, secure authentication, and optimized media handling.
-
-**Tech Stack:** Laravel, PHP, MySQL, HTML5, CSS3, JavaScript  
-**Live Demo:** [mixcloud.42web.io](http://mixcloud.42web.io)
-
-**Key Features:**
-- Secure user authentication and authorization
-- Media file upload and streaming optimization
-- Comprehensive admin dashboard
-- Responsive design for all devices
-
----
-
-### 🛒 E-Commerce CMS Platform
-Full-featured Content Management System with integrated e-commerce capabilities, payment gateways, and multi-vendor support.
-
-**Tech Stack:** Laravel, PHP, MySQL, Payment Gateway APIs  
-
-**Key Features:**
-- Multi-vendor marketplace functionality
-- Inventory tracking and management
-- Secure payment processing
-- Scalable architecture for high traffic
-
----
-
-### ✈️ Travel Agency Management System
-End-to-end travel agency platform with booking management, customer portals, and itinerary planning.
-
-**Tech Stack:** Next.js, Laravel, MySQL, TailwindCSS  
-
-**Key Features:**
-- Real-time booking system
-- Customer relationship management
-- Itinerary builder and management
-- Payment integration
-
----
-
-### 🏢 ERP Systems (POS, HRM, Inventory)
-Comprehensive enterprise resource planning solutions for business operations.
-
-**Tech Stack:** Python, Laravel, Next.js, MySQL  
-
-**Key Features:**
-- Point of Sale (POS) system
-- Human Resource Management (HRM)
-- Inventory management and tracking
-- Role-based access control (RBAC)
-- Real-time reporting and analytics
-
----
-
 ## 📊 GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=b127exe&theme=radical)](https://git.io/streak-stats)
-
----
-
-## 🎓 Education
-
-**Diploma in Software Engineering** - Grade B (Credit)  
-*Aptech Learning Pakistan* | 2021 - 2025
-
----
-
-## 💼 Professional Experience
-
-### Full Stack Engineer at BuildwithU
-*February 2025 - Present*
-- Architected scalable ERP systems (POS, HRM, inventory management)
-- Built travel management platforms using Next.js, Laravel, and MySQL
-- Optimized database performance by 40%
-- Implemented secure authentication and RBAC
-
-### PHP Developer at Winston Marriot Ltd. (Remote)
-*December 2023 - January 2025*
-- Developed backend systems serving thousands of users
-- Integrated AWS services (S3, EC2, Lambda)
-- Improved application performance by 35%
-
-### PHP Developer Intern at Digiwised Solutions
-*August 2023 - November 2023*
-- Built web applications using Laravel framework
-- Reduced bug resolution time by 25%
-- Learned industry-standard development practices
 
 ---
 
